@@ -1,0 +1,60 @@
+Report generated at 2026-04-20 20:04:38
+==================================================
+POWER REPORT
+==================================================
+
+IO_PAD POWER:
+--------------------------------------------------
+Internal Power       0.0000 pW
+Switching Power      0.0000 pW
+Leakage Power        0.0000 pW
+Total Power          0.0000 pW
+
+MEMORY POWER:
+--------------------------------------------------
+Internal Power       249.2538 mW
+Switching Power      0.0000 pW
+Leakage Power        965.4221 nW
+Total Power          249.2548 mW
+
+BLACK_BOX POWER:
+--------------------------------------------------
+Internal Power       0.0000 pW
+Switching Power      0.0000 pW
+Leakage Power        0.0000 pW
+Total Power          0.0000 pW
+
+CLOCK_NETWORK POWER:
+--------------------------------------------------
+Internal Power       121.4124 mW
+Switching Power      0.0000 pW
+Leakage Power        0.0000 pW
+Total Power          0.0000 pW
+
+REGISTER POWER:
+--------------------------------------------------
+Internal Power       3.0430 mW
+Switching Power      100.8000 μW
+Leakage Power        2.1308 μW
+Total Power          124.5579 mW
+
+SEQUENTIAL POWER:
+--------------------------------------------------
+Internal Power       0.0000 pW
+Switching Power      0.0000 pW
+Leakage Power        0.0000 pW
+Total Power          0.0000 pW
+
+COMBINATIONAL POWER:
+--------------------------------------------------
+Internal Power       5.9146 mW
+Switching Power      1.6961 mW
+Leakage Power        4.3973 μW
+Total Power          7.6150 mW
+
+TOTAL POWER:
+--------------------------------------------------
+Internal Power       358.0708 mW
+Switching Power      1.7813 mW
+Leakage Power        4.5265 μW
+Total Power          359.8567 mW

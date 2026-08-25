@@ -1,0 +1,1 @@
+/afs/ece.cmu.edu/class/ece447/Patches/Lab4b_S26/dc_synth.tcl
